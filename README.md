@@ -1,7 +1,7 @@
-![github-gif-one](https://github.com/punit1111/punit1111/blob/main/github-gif-banner.gif)
+![github-gif-one](https://github.com/punitDT/punitDT/blob/main/github-gif-banner.gif)
 <h1 align="center">Hi 👋, I'm Punit Patel</h1>
 <h3 align="center">A highly skilled and passionate App developer from India, renowned for creating innovative and user-friendly applications that seamlessly blend cutting-edge technology with user-centric design, making a significant impact in the tech community</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/punit1111/punit1111/blob/main/github-gif-one.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/punitDT/punitDT/blob/main/github-gif-one.gif">
 
 
 - 🌱 I am enthusiastically dedicating myself to mastering **Flutter**, a versatile and powerful framework to create dynamic, cross-platform applications
